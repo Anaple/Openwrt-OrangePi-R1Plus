@@ -1,4 +1,4 @@
-# Actions-4B-OpenWrt
+# Actions-Zero/R1Plus-OpenWrt
 
 已加入的
 
@@ -24,6 +24,7 @@
 |luci-app-wol   	        | WOL网络唤醒
 |luci-app-adguardhome     | AdGuard Home
 |luci-app-openclash       | Open Clash
+|luci-app-clash           | Clash
 |luci-app-openvpn         | Open VPN
 |luci-app-openvpnserver   | Open VPN Server
 |luci-app-aria2           | aria2
