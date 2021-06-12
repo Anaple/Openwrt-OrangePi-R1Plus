@@ -1,4 +1,4 @@
-# Actions-4B-OpenWrt
+# Actions-Zero/R1Plus-OpenWrt
 
 已加入的
 
