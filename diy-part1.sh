@@ -22,3 +22,12 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci
 # 添加 OpenClash
 git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 
+git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
+git clone --depth=1 https://github.com/tty228/luci-app-serverchan
+git clone --depth=1 https://github.com/jerrykuku/lua-maxminddb.git
+git clone --depth=1 https://github.com/jerrykuku/luci-app-vssr.git
+git clone --depth=1 https://github.com/destan19/OpenAppFilter.git
+git clone --depth=1 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk
+git clone --depth=1 https://github.com/BoringCat/luci-app-mentohust.git
+
+
